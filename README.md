@@ -32,7 +32,7 @@ Installation
 </div>
 
 <br>
-<hr style="width:50%;text-align:left;margin-left:0">
+<hr>
 Import GUI library tkinter
 <div>
 
