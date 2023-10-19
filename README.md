@@ -55,10 +55,11 @@ Download the source code from the repository and run the Adminpage file just as 
 
 ```python Adminpage.py```
 
+
 </div>
 
 ## Login credential
-<div>
-User ID:Admin
+
+User ID:Admin<br>
 Password:admin123
-</div>
+
