@@ -30,7 +30,6 @@ Installation
 -Install python 3
 
 </div>
-<br>
 
 ## Library
 
@@ -40,7 +39,6 @@ Import GUI library tkinter
 ```from tkinter import *'```
 
 </div>
-<br>
 
 Import SQLite3 for Database
 <div>
@@ -49,7 +47,6 @@ Import SQLite3 for Database
 
 </div>
 
-<br>
 
 <h2 align="center">Running the application</h2>
 
@@ -59,7 +56,6 @@ Download the source code from the repository and run the Adminpage file just as 
 ```python Adminpage.py```
 
 </div>
-<br>
 
 ## Login credential
 
