@@ -30,9 +30,8 @@ Installation
 -Install python 3
 
 </div>
-
 <br>
-<hr>
+<div align="left"></div>
 Import GUI library tkinter
 <div>
 
@@ -60,8 +59,7 @@ Download the source code from the repository and run the Adminpage file just as 
 </div>
 <br>
 
-<h3>Login credential</h3>
-<hr style="width:50%;text-align:left;margin-left:0">
+<h3 align="left">Login credential</h3>
 
 User ID:Admin
 Password:admin123
