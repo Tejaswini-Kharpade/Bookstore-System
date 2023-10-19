@@ -58,6 +58,7 @@ Download the source code from the repository and run the Adminpage file just as 
 </div>
 
 ## Login credential
-
-User ID:Admin<"\n">
+<div>
+User ID:Admin
 Password:admin123
+</div>
