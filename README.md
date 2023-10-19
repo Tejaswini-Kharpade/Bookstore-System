@@ -31,10 +31,12 @@ Installation
 
 </div>
 <br>
-<div align="left"></div>
+
+## Library
+
 Import GUI library tkinter
 <div>
-
+  
 ```from tkinter import *'```
 
 </div>
@@ -59,7 +61,7 @@ Download the source code from the repository and run the Adminpage file just as 
 </div>
 <br>
 
-<h3 align="left">Login credential</h3>
+## Login credential
 
 User ID:Admin
 Password:admin123
