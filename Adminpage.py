@@ -4,6 +4,7 @@ from tkinter import messagebox
 
 
 mGui=Tk()
+mGui.title("Bookstore")
 width,height=750,400
 v_dim=str(width)+'x'+str(height)
 mGui.geometry(v_dim)
