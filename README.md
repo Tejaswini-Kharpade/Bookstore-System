@@ -59,5 +59,5 @@ Download the source code from the repository and run the Adminpage file just as 
 
 ## Login credential
 
-User ID:Admin
+User ID:Admin<"\n">
 Password:admin123
