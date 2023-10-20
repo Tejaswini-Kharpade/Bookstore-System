@@ -60,6 +60,6 @@ Download the source code from the repository and run the Adminpage file just as 
 
 ## Login credential
 
-User ID:Admin<br>
-Password:admin123
+User ID: Admin <br>
+Password: admin123
 
